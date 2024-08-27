@@ -7,11 +7,14 @@
 <title>Personal Portfolio</title>
 </head>
 <body>
-<header class="nav-bars">
+<header>
+<nav class="nav-bars">
 <ul class="nav-links">
 <li><a href="#weclcome" class="nav-link">WELCOME</a></li>
 <li><a href="#projects" class="nav-link">PROJECTS</a></li>
 <li><a href="#contact" class="nav-link">CONTACT</a></li>
+</nav>
+</header>
 <section id="welcome">
 <h1>Hi,  I'm Msughter</h1>
 <p>a web designer.</p>
