@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="styles.css">
+<title>Personal Portfolio</title>
+</head>
+<body>
+<header class="nav-bars">
+<ul class="nav-links">
+<li><a href="#weclcome" class="nav-link">WELCOME</a></li>
+<li><a href="#projects" class="nav-link">PROJECTS</a></li>
+<li><a href="#contact" class="nav-link">CONTACT</a></li>
+<section id="welcome">
+<h1>Hi,  I'm Msughter</h1>
+<p>a web designer.</p>
+</section>
+<section id="projects">
+<h1>These are my projects</h1>
+<figure>
+<a href="#survey_form"><img src="" alt="survey_form"></a>
+</figure>
+</section>
+<section id="contact">
+<h1>We can connect together</h1>
+</section>
+</section>
+</ul>
+</header>
+</body>
+</html>
